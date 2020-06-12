@@ -1,6 +1,4 @@
-So Stronk Assignment
-Dheeraj Nahariya
-Lovely Professional University(reg no 11704064)
+
 ---------------------
 ---------------------
 
