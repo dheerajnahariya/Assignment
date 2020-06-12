@@ -27,7 +27,10 @@ Example => Example : Input {M=2 and A B C D} => Output {A B vs C D} , {A C vs B 
 This Function will Fill the Unique Teams with thier AVERGAE Score and Divide the Whole Players into Two Teams => Team 1 and Team 2. This Function Stores all the Values in Unique_Matches_List. Then We Will Sort this Unique Match List According to the Closeness of the Teams (Diffrences in Averages).
 
 Example => 
+
 Unique Matches List will look Like Following.
+
+
 A,C (86.00) vs B,D (55.00)
 A,B (87.50) vs C,D (53.50)
 A,D (52.50) vs B,C (88.50)
